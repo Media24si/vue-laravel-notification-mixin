@@ -5,11 +5,11 @@ Takes care of most of the tedious work, like setting up the notifications plugin
 
 # Installation
 ```
-npm install vue-laravel-notifications-mixin --save-dev
+npm install vue-laravel-notification-mixin --save-dev
 ```
 or
 ```
-yarn add vue-laravel-notifications-mixin --save
+yarn add vue-laravel-notification-mixin --save
 ```
 
 # Usage
