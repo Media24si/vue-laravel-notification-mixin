@@ -41,10 +41,11 @@ Vue.use(NotificationsMixin, { id: identifier }, {
 
 # Configuration options
 The configuration options for the plugin only contain two parameters
+
 | Parameter | Type | Default | Description |
-| --- | --- | --- | --- |
-| id | String or Array | null | The identifier of the vue element instance. Can be passed as an Array if you have more than one.
-| group | boolean | false | Add group attributes to notifications? Same as the id. (learn more about groups and when to use them [here](https://github.com/euvl/vue-notification#groups))
+| ---- | ---- | ---- | ---- |
+| id | String or Array | null | The identifier of the vue element instance. Can be passed as an Array if you have more than one. |
+| group | boolean | false | Add group attributes to notifications? Same as the id. (learn more about groups and when to use them [here](https://github.com/euvl/vue-notification#groups)) |
 
 # Functions
 ### notifySuccess
