@@ -1,0 +1,29 @@
+{
+  "name": "vue-laravel-notification-mixin",
+  "version": "1.0.0",
+  "description": "A small notification mixin plugin for Vuejs to use with Laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^2.5.7",
+    "vue-notification": "^1.3.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Media24si/vue-laravel-notification-mixin.git"
+  },
+  "keywords": [
+    "vue",
+    "laravel",
+    "notifications",
+    "mixin"
+  ],
+  "author": "Adam Stradovnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Media24si/vue-laravel-notification-mixin/issues"
+  },
+  "homepage": "https://github.com/Media24si/vue-laravel-notification-mixin#readme"
+}
